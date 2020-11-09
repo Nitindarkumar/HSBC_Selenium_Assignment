@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-06T07:11:20Z" name="Default suite" finished-at="2020-11-06T07:11:51Z" duration-ms="30576">
+    <groups>
+    </groups>
+    <test started-at="2020-11-06T07:11:20Z" name="Default test" finished-at="2020-11-06T07:11:51Z" duration-ms="30576">
+      <class name="assertionsassignment3.TwoDifferantAreas">
+        <test-method is-config="true" signature="setBaseURL()[pri:0, instance:assertionsassignment3.TwoDifferantAreas@91ff59b1]" started-at="2020-11-06T12:41:20Z" name="setBaseURL" finished-at="2020-11-06T12:41:35Z" duration-ms="15010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseURL -->
+        <test-method signature="verifyPinForAreas()[pri:0, instance:assertionsassignment3.TwoDifferantAreas@91ff59b1]" started-at="2020-11-06T12:41:35Z" name="verifyPinForAreas" finished-at="2020-11-06T12:41:50Z" duration-ms="14550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPinForAreas -->
+        <test-method is-config="true" signature="WebDriverClosure()[pri:0, instance:assertionsassignment3.TwoDifferantAreas@91ff59b1]" started-at="2020-11-06T12:41:50Z" name="WebDriverClosure" finished-at="2020-11-06T12:41:51Z" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDriverClosure -->
+      </class> <!-- assertionsassignment3.TwoDifferantAreas -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
